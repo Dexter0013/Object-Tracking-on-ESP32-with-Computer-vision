@@ -4,8 +4,15 @@
 
 Run these commands in your terminal to create the virtual environment and install dependencies:
 
-```bash
-python3.14 -m venv venv_name
-source venv_name/bin/activate
-pip install --upgrade pip
+```sh
+# Get the code
+git clone https://github.com/Dexter0013/ewaste-fastapi.git
+cd ewaste-fastapi
+
+# Optional: virtual environment
+python -m venv venv
+source venv/bin/activate
+
+# Install reqs
 pip install -r requirements.txt
+```
