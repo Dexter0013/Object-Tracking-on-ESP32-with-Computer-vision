@@ -6,7 +6,7 @@ Run these commands in your terminal to create the virtual environment and instal
 
 ```sh
 # Get the code
-git clone https://github.com/Dexter0013/ewaste-fastapi.git
+git clone https://github.com/Dexter0013/Object-Tracking-on-ESP32-with-Computer-vision.git
 cd ewaste-fastapi
 
 # Optional: virtual environment
