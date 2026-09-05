@@ -10,8 +10,8 @@ git clone https://github.com/Dexter0013/Object-Tracking-on-ESP32-with-Computer-v
 cd Object-Tracking-on-ESP32-with-Computer-vision
 
 # Optional: virtual environment
-python -m venv venv
-source venv/bin/activate
+python -m venv venv_name
+source venv_name/bin/activate
 
 # Install reqs
 pip install -r requirements.txt
