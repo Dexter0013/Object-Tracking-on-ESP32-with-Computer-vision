@@ -7,7 +7,7 @@ Run these commands in your terminal to create the virtual environment and instal
 ```sh
 # Get the code
 git clone https://github.com/Dexter0013/Object-Tracking-on-ESP32-with-Computer-vision.git
-cd ewaste-fastapi
+cd Object-Tracking-on-ESP32-with-Computer-vision
 
 # Optional: virtual environment
 python -m venv venv
